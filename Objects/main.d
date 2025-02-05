@@ -37,3 +37,5 @@
 .\objects\main.o: .\Hardware\PWM.h
 .\objects\main.o: .\Hardware\Motor.h
 .\objects\main.o: .\Driver\W25Qx.h
+.\objects\main.o: .\Hardware\DMA.h
+.\objects\main.o: .\Hardware\DataLink.h

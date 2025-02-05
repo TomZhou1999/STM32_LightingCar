@@ -29,3 +29,4 @@
 .\objects\spi.o: .\Library\stm32f10x_wwdg.h
 .\objects\spi.o: .\Library\misc.h
 .\objects\spi.o: Hardware\OLED.h
+.\objects\spi.o: .\Driver\W25Qx.h

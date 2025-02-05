@@ -10,8 +10,6 @@ void MySpi_Start(void);
 void MySpi_Stop(void);
 uint8_t MySpi_SwapBytpe(uint8_t ByteSend);
 
-void MyDMA_Init(uint32_t AddrA, uint32_t AddrB, uint16_t Size);
-void MyDMA_Transfer(void);
 void CmoSPi_Init(void);
 uint8_t ReadBuffer(uint8_t i);
 uint8_t Cmos_SPI_Rx(void);

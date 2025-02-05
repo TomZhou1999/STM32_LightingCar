@@ -730,6 +730,26 @@
               <FileType>5</FileType>
               <FilePath>.\Hardware\Motor.h</FilePath>
             </File>
+            <File>
+              <FileName>DMA.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\DMA.h</FilePath>
+            </File>
+            <File>
+              <FileName>DMA.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\DMA.c</FilePath>
+            </File>
+            <File>
+              <FileName>DataLink.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\DataLink.h</FilePath>
+            </File>
+            <File>
+              <FileName>DataLink.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\DataLink.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

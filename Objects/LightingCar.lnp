@@ -32,6 +32,8 @@
 ".\objects\spi.o"
 ".\objects\pwm.o"
 ".\objects\motor.o"
+".\objects\dma.o"
+".\objects\datalink.o"
 ".\objects\power_sequence.o"
 ".\objects\sensor_bf30a2.o"
 ".\objects\w25qx.o"
